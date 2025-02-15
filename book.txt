@@ -1,0 +1,235 @@
+The Pragmatic Programmer - YOUR JOURNEY TO MASTERY
+
+
+pragmatic - /praɡˈmatɪk/
+dealing with things sensibly and realistically in a way that is based on practical 
+rather than theoretical considerations.
+
+So who are Pragmatic Programmers: approaching problems and
+their solutions. Thinking beyond immediate problems.
+
+	Topic 1: It's My Life;
+
+Software development must appear close to the top of any list of
+careers where you have control.
+
+Martin Fowler says, “you can
+change your organization or change your organization.”
+
+I’m not in this world to
+live up to your
+expectations and
+you’re not in this world
+to live up to mine.
+Bruce Lee
+
+Tip 1: Care About Your Craft
+
+Why spend your life developing software unless you care about doing it well?
+
+Tip 2: Think! About Your Work
+
+Turn off the autopilot and take control. Constantly critique and appraise your work.
+
+	Topic 2: The Cat Ate My Source Code
+The greatest of all
+weaknesses is the fear
+of appearing weak.
+J.B. Bossuet, Politics from
+Holy Writ, 1709
+
+- Taking responsibilities of yourself and your actions.
+	-Team Trust
+	-Take Responsibility
+
+Tip: Provide Options, Don’t Make Lame Excuses
+	- Don’t say it can’t be done;
+explain what can be done to salvage the situation. Does code
+have to be deleted? Tell them so, and explain the value of
+refactoring 
+Don’t be afraid to ask, or to admit that you need help.
+
+
+
+CHALLENGES:
+ * How do you react when someone—such as a bank teller, an auto
+mechanic, or a clerk—comes to you with a lame excuse? What do
+you think of them and their company as a result?
+ - I think of them as irresponsible and untrustful. 
+
+ * When you find yourself saying, “I don’t know,” be sure to follow it
+up with “—but I’ll find out.” It’s a great way to admit what you don’t
+know, but then take responsibility like a pro.
+
+	Topic 3: Software Entropy
+
+Entropy is a term from physics that refers to the amount of “disorder” in a
+system.
+When disorder increases in software, we call it “software rot.”/ "Technical Dept"
+
+Tip 5: Don't Live with Broken Windows:
+
+Researchers in the field of crime and urban decay discovered a fascinating trigger mechanism,
+one that very quickly turns a clean, intact, inhabited building
+into a smashed and abandoned derelict. A BROKEN WINDOW.
+
+- In being Pragmatic, 
+Don’t leave "broken windows" (bad designs, wrong decisions, or
+poor code) unrepaired. Fix each one as soon as it is discovered.
+If there is insufficient time to fix it properly, then board it up.
+ By Boarding you can:
+	- Comment out the offending code.
+	- Display "Not Implemented"
+	- Display dummy data.
+
+“No broken windows.”
+
+CHALLENGES:
+      -	Help strengthen your team by surveying your project
+neighborhood. Choose two or three broken windows and discuss
+with your colleagues what the problems are and what could be done
+to fix them.
+      - Can you tell when a window first gets broken? What is your
+reaction? If it was the result of someone else’s decision, or a
+management edict, what can you do about it?
+
+
+	Topic 4: Stone Soup and Boiled Frogs
+It’s time to bring out the stones. Work out what you can
+reasonably ask for. Develop it well. Once you’ve got it, show
+people, and let them marvel. Then say “of course, it would be
+better if we added…’’ Pretend it’s not important. Sit back and
+wait for them to start asking you to add the functionality you
+originally wanted.
+- People find it easier to join an ongoing development.Show them a glimpse of the future and you’ll get them
+to rally around.
+ 
+Tip 6: Be a Catalyst for Change
+- Lets not focus too tightly. 
+- We see symptoms like, Projects slowly and inexorably get
+totally out of hand. Most software disasters start out too small
+to notice, and most project overruns happen a day at a time
+- It’s often the accumulation of small things that breaks morale and teams
+
+Tip 7: Remember the big Picture
+	-Don’t be like the fabled frog from the "From and Hot Pot" saing. Keep an eye on the big picture.
+Constantly review what’s happening around you, not just what
+you personally are doings
+
+
+CHALLENGES:
+ - Quick, without looking, how many lights are in the ceiling above
+you? How many exits in the room? How many people? Is there
+anything out of context, anything that looks like it doesn’t belong?
+This is an exercise in situational awareness, a technique practiced
+by folks ranging from Boy and Girl Scouts to Navy SEALs. Get in
+the habit of really looking and noticing your surroundings. Then do
+the same for your project.
+ - How can you tell/determine wether your decision is Subjective or Objective when
+you catalyze a change?
+
+
+	Topic 5: Good-Enough Software:
+
+The scope and quality of the system you produce should be specified as part of that system's requirements.
+
+Tip 7: Make Quality a Requirements Issue
+
+Great software today is often preferable to perfect software tomorrow. Know When to Stop
+
+	Topic 6: Your Knowledge Protfolio
+"An investment in
+knowledge always
+pays the best interest."
+- Benjamin Franklin
+
+ *An investment in knowledge always pays the best interest.
+
+-Managing a knowledge portfolio is very similar to managing a financial
+portfolio:
+     -	Smart investors balance their portfolios between conservative and high-risk,high-reward investments.
+     -	Investors try to buy low and sell high for maximum return.
+     -  Portfolios should be reviewed and rebalanced periodically
+      - Diversication is the key tp long-term success
+
+Being Successfull in your career, You must invest your knowledge portfolio using these same guidelines
+And that can be learnt as any other skill;
+The trick is to make yourself do it initially and form a habit.
+
+BUILDING YOUR PORTFOLIO
+-Invest Regularly: Have a habit on investing you knowledge portfolio, and plan to use a consistent time + place.
+- Diversity: The more dif erent things you know, the more valuable you are.
+	. And don’t forget all the other skills you need, including those in nontechnical areas.
+- Manage Risk: It’s not a good idea to invest all of your money in high-risk stocks that might collapse suddenly, nor
+	should you invest all of it conservatively and miss out on
+	possible opportunities, same with the technologies and skills.Don’t put all your technical eggs in one basket.
+- Buy Low, Sell High: Learning an emerging technology before it becomes popular can be just as hard as finding an undervalued
+	stock, but the payoff can be just as rewarding
+- Review and Rebalance: Habit to review past technologies. 
+	Maybe you need to brush up on that database technology that you haven’t used in a while.
+
+Tip 9: Invest Regularly in Your Knowledge Portfolio
+
+GOALS:
+Suggestions to acquiring intellectual capital:
+	- Learn at least one new language everyday: By learning several different approaches, you can help broaden your thinking and 
+	  avoid getting stuck in a rut
+
+	- Read a technical Book each month: 
+	- Take classes: 
+	- Participate in Local Groups and meetups
+	- Experiment with different Environments: Different OS, IDEs etc.
+	- Stay Current: Read news and posts online on technology different from that of your current project.
+
+				**KEEP LEARNING, SOMETHING NEW.**
+
+You need to ensure that the knowledge in your portfolio is accurate and unswayed by either vendor or media hype.
+
+OPPORTUNITIES FOR LEARNING
+- When facing a problem or a qn you don't understand, Don't just let it go, instead follow up on it. 
+and don't be shy to ask if needed/ when possible. 
+
+CRITICAL THINKING:
+- You need to ensure that the knowledge in your portfolio is accurate and unswayed by either vendor or media hype.
+
+Tip 9: Critically Analyze What You Read and Hear
+ 
+	- Ask the "Five Why's": Ask a question, and get an answer.
+	- Who does this benefit: Make sure it benefits you.
+	- What's the context?
+	- When and where would this work?
+	- Why is this a problem?
+
+CHALLENGES:
+	- Start learning new languages this week. Doesn't have to be what you're applying in your current project.
+	- Start reading new book:  If you are doing
+		very detailed implementation and coding, read a book on design
+		and architecture. If you are doing high-level design, read a book on
+		coding techniques.
+	- Network: Get out and talk.
+
+Topic 7: Communicate!
+	- Know what you want to say. Plan what you want to say. Write an outline.
+	- Know your audience. (WISDOM acrostic)
+		What they Want?
+		What is their Interest?
+		How Sophisticated are they?
+		How much Detail they want?
+		Who do you want to Own the information?
+		How can you Motivate them to listen?
+	- Choose your moment: Understanding when your audience needs to hear your information.
+	- Choose a style: Just the facts, large bound reports, a simple memo.
+	- Make it look good: Add good-looking vehicle to your important ideas and engage your audience.
+	- Involve your audience: Get their feedback, and pick their brains.
+ 	- Be a listener: Encourage people to talk by asking questions.
+	- Get back to people: Keep people informed afterwards.
+	- Keep code and documentation together.
+
+Tip 10: It's Both What You Say and the Way You Say It
+Tip 11: English is Just Another Programming Language
+Tip 13: Build Documentation In, Don’t Bolt It On
+
+
+
+
+
