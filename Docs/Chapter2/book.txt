@@ -1,0 +1,81 @@
+Chapter 2: A PRAGMATIC APPROACH
+
+Topic 8: The Essence of Good Design.
+
+Tip 14: Good Design is Easier to Change Than Bad Design
+ A this is well designed if it adapts to the users.
+
+ETC "Easier to Change" Principal
+
+ETC IS A VALUE, NOT A RULE.
+
+Values are things that help you make decisions and ETC is a guid that helps choose between paths.
+
+"Did the thing I just did make the overall system easier or harder to change"
+Keep asking yourself this, when you save a file, when writting a test and when fixing a bug.
+
+When aren't sure; 
+	- Try making what you write replacable
+	- Treat this as a way to develop instincts
+
+
+Topic 9: DRY - The Evils of Duplication
+
+"Every piece of knowledge must have a single, unambiguous, authoritative representation within a system."
+
+Tip 15: DRY-Don't Repeat Yourself
+
+DRY IS MORE THAN CODE
+
+DRY is about the duplication of knowledge, of intent. Expressing same thing in different places.
+But not all code duplication is Knowledge Duplication.
+
+Duplications problems and Strategies:
+  - Duplication in Code: Not All Code Duplication Is Knowledge Duplication
+  - Duplication in Documentation: They way we comment in the code and document it, like mentioning a dynamic data in the documentation/comments
+  - DRY Violations in Data: 
+  - Representational Duplications: Duplication Across Internal/Extenal APIs, Duplication with data sources
+  - InterDeveloper Duplications: 
+	
+Tip 16: Make it Easy to Reuse.
+
+Types of duplication:
+
+ - Imposed duplication: Developers feel they have no choice—the environment seems to require duplication.
+ - Inadvertent duplication: Developers don't realize that they are duplicating information.
+ - Impatient duplication: Developers get lazy and duplicate because it seems easier.
+ - Interdeveloper duplication: Multiple people on a team (or on different teams) duplicate a piece of information.
+
+
+Topic 10: Orthogonality
+- Two or more things are orthogonal if changes in one do not affect any of the others.
+  a.k.a Cohesion.
+
+In a well designed code Database code is orthogonal to the UI code.
+
+BENEFITS OF ORTHOGONALITY:
+
+Tip 17: Eliminate Effects Between Unrelated Things.
+
+- Increses Productivity: Promotes reuse, Changes are Localized, 
+- Reduces risk : reduces the risks inherent in any development.
+
+Ways You Can apply Orthogonality Principle
+
+ Design:  Systems should be composed of a set of cooperating modules, each of
+	    which implements functionality independent of the others
+ Toolkits and Libraries: if added toolkit/libraries imposes changes on your code that shouldn’t be there. If an object
+	    persistence scheme is transparent, then it’s orthogonal.
+ Coding: Techniques to maintain Orthogonality in code:
+		- Keep your code decoupled: Write shy code—modules that don’t reveal anything unnecessary to other modules and that don’t rely on
+		   other modules’ implementations.
+		- Avoid Global Data: 
+		- Avoid Similar Functions:
+ Testing: Orthogonal systems are easier to test.
+ Documentation: should be able to change the appearance dramatically without changing the content
+
+LIVING WITH ORTHOGONALITY: DRY focuses on minimizing duplications while Orthogonality reduces intedependency.
+
+What are the differences in orthogonality between objectoriented and functional languages? Are these differences
+inherent in the languages themselves, or just in the way people
+use them?
