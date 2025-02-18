@@ -1,4 +1,4 @@
-Chapter 2: A PRAGMATIC APPROACH
+                            Chapter 2: A PRAGMATIC APPROACH
 
 Topic 8: The Essence of Good Design.
 
@@ -76,6 +76,68 @@ Ways You Can apply Orthogonality Principle
 
 LIVING WITH ORTHOGONALITY: DRY focuses on minimizing duplications while Orthogonality reduces intedependency.
 
-What are the differences in orthogonality between objectoriented and functional languages? Are these differences
+ Qn. What are the differences in orthogonality between objectoriented and functional languages? Are these differences
 inherent in the languages themselves, or just in the way people
 use them?
+
+Topic 11: Reversibility:
+
+Be Prepared for Change.
+
+ "Nothing is more dangerous than an idea if it’s the only one you have." 
+
+The problem is that critical decisions aren’t easily reversible.
+Once you decide to use this vendor’s database, or that architectural pattern, or a certain deployment model, you are
+committed to a course of action that cannot be undone, except at great expense.
+
+
+Tip 18: There are No Final Decisions
+
+FLEXIBLE ARCHITECTURE
+
+Best ways to make an easy to change Architecture
+- Hide third party APIs behind your own abstraction layers.
+- Break code into components
+
+Tip 19: Forgo Following Fads
+	Enable your code to rock-n-roll: to “rock on’’ when it can, to roll
+with the punches when it must. Since we don't know what the future holds and what changes may need to happen.
+
+Topic 12: Tracer Bullets
+
+In new projects your users requirements may be vague. 
+Use of new algorithms, techniques, languages, or libraries unknowns will come. 
+And environment will change over time before you are done. 
+
+CODE THAT GLOWS IN THE DARK
+We're looking for something that gets us from a requirement to some aspect of the final system quickly, visibly, and repeatably.
+
+Look for the important requirements, the ones that define the system, areas with dought and biggest risks. Then prioritize your
+development so that these are the first areas you code.
+
+Tip 20: Use Tracer Bullets to find the target
+
+ - Trace code isn't disposable. 
+ - Tracer development is consistent with the idea that a project is never finished: there will always be changes required and
+	functions to add. It is an incremental approach.
+ 
+Advantages od Tracer Code approach
+- Users get to see something working early.
+- Developers build a structure to work in.
+- You have an integration platform.
+- Having something to demostrate
+- having a better feel for progress
+
+TRACER BULLETS DON'T ALWAYS HIT THERE TARGET
+
+Tracer bullets show what you're hitting. This may not always be the target. You then adjust your aim until they're on target. That's the point.
+
+TRACER CODE VERSUS PROTOTYPING
+
+With prototype, you're aiming to explore specific aspects of the final system.
+
+With tracer Code, You need to know how the application as a whole hangs together.
+
+Prototyping generates disposable code. Tracer code is lean but complete, and forms part of the skeleton of the final system.
+
+Think of prototyping as the reconnaissance and intelligence gathering that takes place before a single tracer bullet is fired.
